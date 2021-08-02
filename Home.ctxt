@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Home
+comment0.text=\r\n\ The\ Home\ class\ what\ will\ be\ used\ to\ create\ a\ welcome-page\ GUI\ for\ the\ Tic-tac-Toe\ game.\r\n\r\n\ @author\ Nathan\ Lutala\ (GitHub\:\ nlutala)\r\n\ @version\ 26/07/2021\r\n
+comment1.params=stage
+comment1.target=void\ start(javafx.stage.Stage)
+comment1.text=\r\n\ The\ start\ method\ is\ the\ main\ entry\ point\ for\ every\ JavaFX\ application.\ \r\n\ It\ is\ called\ after\ the\ init()\ method\ has\ returned\ and\ after\ \r\n\ the\ system\ is\ ready\ for\ the\ application\ to\ begin\ running.\r\n\r\n\ @param\ \ stage\ the\ primary\ stage\ for\ this\ application.\r\n
+comment2.params=event
+comment2.target=void\ playComputer(javafx.event.ActionEvent)
+comment2.text=\r\n\ Play\ the\ game\ against\ the\ CPU.\r\n
+comment3.params=event
+comment3.target=void\ againstPlayer(javafx.event.ActionEvent)
+comment3.text=\r\n\ Play\ the\ game\ against\ another\ player.\r\n
+comment4.params=event
+comment4.target=void\ showInstructions(javafx.event.ActionEvent)
+comment4.text=\r\n\ Show\ the\ instructions\ to\ the\ user.\r\n
+comment5.params=event
+comment5.target=void\ quitGame(javafx.event.ActionEvent)
+comment5.text=\r\n\ If\ the\ user\ presses\ "Quit",\ the\ program\ quits.\r\n
+numComments=6

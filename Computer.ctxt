@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Computer
+comment0.text=\r\n\ The\ Computer\ class\ what\ will\ be\ used\ to\ create\ the\ CPU\ which\ plays\ against\ the\ user\r\n\ for\ the\ Tic-tac-Toe\ game.\r\n\r\n\ @author\ Nathan\ Lutala\ (GitHub\:\ nlutala)\r\n\ @version\ 29/07/2021\r\n
+comment1.params=
+comment1.target=Computer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Computer\r\n
+comment2.params=
+comment2.target=void\ placePosition()
+comment2.text=\r\n\ Calculates\ where\ to\ place\ the\ "X".\r\n
+comment3.params=
+comment3.target=int\ getPosition()
+comment3.text=\r\n\ @return\ position\r\n
+numComments=4
