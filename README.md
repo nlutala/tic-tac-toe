@@ -15,7 +15,9 @@ This program was created as a small project to help me familiarise myself with c
 * Press the green code button and press "Download ZIP". (I have included IntelliJ files, however you can delete all ".ctxt" and ".class" files if you use another text editor).
 
 #### Executing program
-* Once you have downloaded the program, you can open it with a suitable text editor of your choice and run it.
+* Once you have downloaded the program, you can open it with a suitable text editor of your choice.
+* Create a Home object and a Stage object in a Main class.
+* Start the Home object e.g. "home.start(stage);"
 
 #### Author
 Nathan Lutala, nlutala
