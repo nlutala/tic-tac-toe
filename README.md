@@ -16,8 +16,7 @@ This program was created as a small project to help me familiarise myself with c
 
 #### Executing program
 * Once you have downloaded the program, you can open it with a suitable text editor of your choice.
-* Create a Home object and a Stage object in a Main class.
-* Start the Home object e.g. "home.start(stage);"
+* Create and run a Home object.
 
 #### Author
 Nathan Lutala, nlutala
