@@ -12,7 +12,7 @@ This program was created as a small project to help me familiarise myself with c
 
 #### Installing
 * Open https://github.com/nlutala/tic-tac-toe in a new tab.
-* Press the green code button and press "Download ZIP". (I have included IntelliJ files, however you can delete all ".ctxt" and ".class" files if you use another text editor).
+* Press the green code button and press "Download ZIP".
 
 #### Executing program
 * Once you have downloaded the program, you can open it with a suitable text editor of your choice.
