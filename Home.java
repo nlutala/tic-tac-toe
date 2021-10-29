@@ -103,4 +103,13 @@ public class Home extends Application
     {
         System.exit(0);
     }
+    
+    /**
+     * Should start the game when the game is built.
+     */
+     public static void main(String[] args)
+     {
+        Home home = new Home();
+        home.start(new Stage());
+     }
 }
