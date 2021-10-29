@@ -16,7 +16,7 @@ This program was created as a small project to help me familiarise myself with c
 
 #### Executing program
 * Once you have downloaded the program, you can open it with a suitable text editor of your choice.
-* Create and run a Home object.
+* Run the main() function in the Home class and enjoy!
 
 #### Author
 Nathan Lutala, nlutala
